@@ -25,11 +25,11 @@
 
 ## 1.4 순위
 ![image](https://user-images.githubusercontent.com/71416249/132822520-85df8ef0-ebe6-4950-8641-a478db099976.png)
-public: 95위
+public: 480팀 중 95위
 
 
 ![image](https://user-images.githubusercontent.com/71416249/132822702-7ad88839-351e-4dc7-b231-cc38a1f9001a.png)
-private: 10위
+private: 480팀 중 10위(상위 4%)
 
 # 2. 프로젝트 요약
 
