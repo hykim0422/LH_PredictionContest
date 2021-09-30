@@ -53,5 +53,4 @@ compare_models를 사용해 모델을 혼합하여 최종 MAE를 도출함. 이�
 ## 2.4 결과 도출
 ![image](https://user-images.githubusercontent.com/71416249/132826123-240e00c3-94d4-4b6c-8516-a93d4feeb635.png)
 
-하략
 
